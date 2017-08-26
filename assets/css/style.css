@@ -237,3 +237,38 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+@media and (max-width: 980px) {
+
+
+}
+
+@media and (width: 768px) {
+
+
+}
+
+@media  and (min-width: 640px) {
+  
+.wrapper {
+  overflow: auto;
+  width: 100%;
+}
+.container {
+  width: 100%;
+  }
+
+#main-container {
+  width: 100%;
+}
+
+#connect {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  flex-flow: auto;
+}
+
+}
+
+
